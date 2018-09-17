@@ -66,4 +66,4 @@ emoji 表情符号
 <!-- 下面是本文中用到的链接引用 -->
 
 [baidu_logo]:https://www.baidu.com/img/bd_logo1.png 
-[百度]：http://www.baidu.com
+[百度]: http://www.baidu.com
